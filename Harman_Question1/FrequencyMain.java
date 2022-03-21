@@ -1,4 +1,4 @@
-package Assignment4.ques1;
+package Harman_Question1;
 
 public class FrequencytMain
 {
